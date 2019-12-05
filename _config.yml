@@ -1,1 +1,9 @@
 theme: jekyll-theme-merlot
+title: Varnika's journal
+description: welcome to my daily journal
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
