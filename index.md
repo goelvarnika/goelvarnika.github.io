@@ -1,6 +1,7 @@
-## Welcome to Varnika's journal 
+## Welcome to Varnika's blog 
 
-### This is my journal to document whatever I do daily to improve my skills
+### This is my area to document whatever I do daily to improve my skills
 
 
-[my first blog](/blog.md) 
+[my first blog](/blog.md)
+[my second blog](/blog2.md)
